@@ -634,4 +634,7 @@ footer {
     body{
         width: auto;
     }
+    .footer_item2 img{
+        width: 750px;
+    }
 }

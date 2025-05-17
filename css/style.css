@@ -712,4 +712,10 @@ footer {
     body{
         width: auto;
     }
+    .footer_item2 img{
+        width: 750px;
+    }
+    .articlei1 img{
+        width: 100%;
+    }
 }

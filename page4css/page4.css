@@ -474,6 +474,7 @@ footer {
     .hsec {
         flex-direction: column;
         padding-left: 100px;
+        width: 100%;
     }
 
     .hi h2 {
@@ -598,5 +599,8 @@ footer {
     }
     body{
         width: auto;
+    }
+    .footer_item2 img{
+        width: 750px;
     }
 }
