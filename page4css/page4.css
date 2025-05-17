@@ -549,6 +549,12 @@ footer {
     }
     .section4 p{
         width: 80%;
+        
+    }
+    .section4{
+        height: 550px;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
 
