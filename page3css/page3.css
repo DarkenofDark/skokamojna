@@ -545,4 +545,7 @@ font-size: 40px;
         width: 40%;
         height: 40%;
     }
+    body{
+        width: auto;
+    }
 }

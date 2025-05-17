@@ -709,4 +709,7 @@ footer {
         width: 40%;
         height: 40%;
     }
+    body{
+        width: auto;
+    }
 }
